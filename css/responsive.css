@@ -1,0 +1,874 @@
+@media (min-width: 1399px) {
+    #banner .slick-dots {
+        bottom: 45px;
+        left: 49%;
+        -webkit-transform: translateX(-55%);
+        -ms-transform: translateX(-55%);
+        transform: translateX(-55%);
+    }
+
+    .d-sm-block {
+        display: inline !important;
+    }
+
+    #testimonial .slick-dots {
+        bottom: 15px;
+        left: 48%;
+        -webkit-transform: translateX(-52%);
+        -ms-transform: translateX(-52%);
+        transform: translateX(-52%);
+    }
+
+    .test_text p {
+        font-size: 16px;
+        line-height: 28px;
+        padding: 0 32px;
+        margin-bottom: 20px;
+    }
+}
+
+@media (min-width: 1200px) and (max-width: 1399px) {
+    #banner .slick-dots {
+        bottom: 45px;
+        left: 49%;
+        -webkit-transform: translateX(-55%);
+        -ms-transform: translateX(-55%);
+        transform: translateX(-55%);
+    }
+
+    .banner_text p {
+        font-size: 16px;
+        padding: 0px 74px;
+    }
+
+    .ex_text p {
+        padding: 0 56px;
+    }
+
+    .d-sm-block {
+        display: inline !important;
+    }
+
+    .test_text p {
+        font-size: 16px;
+        line-height: 28px;
+        padding: 0 32px;
+        margin-bottom: 20px;
+    }
+
+    #testimonial .slick-dots {
+        bottom: 15px;
+        left: 48%;
+        -webkit-transform: translateX(-52%);
+        -ms-transform: translateX(-52%);
+        transform: translateX(-52%);
+    }
+
+    .foot2,
+    .foot3 {
+        margin-left: 40px;
+    }
+
+    .foot1 p {
+        padding-right: 40px;
+    }
+
+    .foot_1 p {
+        margin-right: 30px;
+    }
+}
+
+
+@media (min-width: 992px) and (max-width: 1199px) {
+
+    .banner_text h1 {
+        font-size: 30px;
+        margin-top: 60px;
+    }
+
+    .d-sm-block {
+        display: inline !important;
+    }
+
+    .banner_text p {
+        line-height: 26px;
+        padding: 0;
+        margin-bottom: 40px;
+        font-size: 16px;
+    }
+
+    #banner .slick-dots {
+        left: 49%;
+        bottom: 10px;
+    }
+
+    .ex_text p {
+        padding: 0 32px;
+    }
+
+    .test_text p {
+        margin-bottom: 25px;
+        margin-top: 25px;
+    }
+
+    #testimonial .slick-dots {
+        bottom: 5px;
+        left: 48%;
+        -webkit-transform: translateX(-55%);
+        -ms-transform: translateX(-55%);
+        transform: translateX(-55%);
+    }
+
+    .foot1 p {
+        font-size: 15px;
+        padding-right: 50px;
+    }
+
+    .foot2,
+    .foot3 {
+        margin-left: 0;
+    }
+
+
+
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+    /* =============== navbar area start ============ */
+    .navbar {
+        position: static;
+        background: #09013b;
+        padding-bottom: 10px;
+        padding-top: 10px;
+    }
+
+    .navbar-brand {
+        padding-top: 0;
+        padding-bottom: 0;
+        -webkit-transform: scale(.9);
+        -ms-transform: scale(.9);
+        transform: scale(.9);
+    }
+
+    /* =============== navbar area end ============ */
+
+    /* =============== banner area start ============ */
+    .banner_text h1 {
+        font-size: 30px;
+    }
+
+    .banner_text p {
+        font-size: 16px;
+        line-height: 24px;
+        padding: 0 0px;
+        margin-bottom: 30px;
+    }
+
+    .d-sm-block {
+        display: inline !important;
+    }
+
+
+    #banner .slick-dots {
+        left: 48%;
+        bottom: 0;
+    }
+
+    /* =============== banner area end ============ */
+
+    /* =============== story area start ============ */
+    #story {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .story_img {
+        margin-bottom: 60px;
+    }
+
+    .story_text p {
+        font-size: 14px;
+        padding-right: 0;
+    }
+
+    .video_text img {
+        -webkit-transform: scale(.8);
+        -ms-transform: scale(.8);
+        transform: scale(.8);
+    }
+
+    /* =============== story area end ============ */
+
+    /* =============== expertise area start ============ */
+    #expertise {
+        padding-top: 60px;
+        padding-bottom: 0px;
+    }
+
+    .ex_row {
+        margin-top: 30px;
+    }
+
+    .ex_text:nth-child(1),
+    .ex_text:nth-child(2),
+    .ex_text:nth-child(3) {
+        margin-bottom: 50px;
+    }
+
+    .header p {
+        margin-bottom: 50px;
+        line-height: 20px;
+    }
+
+    .ex_text p {
+        padding: 0 30px;
+    }
+
+    /* =============== expertise area end ============ */
+
+    /* =============== team area start ============ */
+    #team {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .team_button {
+        margin-top: 50px;
+    }
+
+    .team_head p {
+        line-height: 20px;
+    }
+
+    /* =============== team area end ============ */
+
+    /* =============== work area start ============ */
+    .work_button {
+        margin-top: 0;
+    }
+
+    #work {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .work_button button {
+        margin-bottom: 20px;
+    }
+
+    .work_row {
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+
+    .work_img {
+        margin-bottom: 24px;
+        margin-right: 12px;
+        margin-left: 12px;
+    }
+
+    .test_text p {
+        font-size: 14px;
+        line-height: 20px;
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+
+    .test_text .span {
+        margin-top: 0px;
+    }
+
+    .d-sm-block {
+        display: inline !important;
+    }
+
+    .test_text {
+        margin-top: -15px;
+    }
+
+    .test_text span {
+        font-size: 13px;
+    }
+
+    .test_text img {
+        -webkit-transform: scale(.8);
+        -ms-transform: scale(.8);
+        transform: scale(.8);
+    }
+
+    #testimonial .slick-dots .slick-active button {
+        display: none;
+    }
+
+    #testimonial .slick-dots li button {
+        display: none;
+    }
+
+    /* =============== work area end ============ */
+
+    /* =============== contact area start ============ */
+    #contact form textarea {
+        height: 100px;
+        width: 50%;
+    }
+
+    #contact form {
+        margin-bottom: 40px;
+    }
+
+    #contact form input {
+        width: 50%;
+    }
+
+    #contact form button {
+        display: block;
+        margin-top: 0;
+        margin-left: 40%;
+    }
+
+    #contact {
+        text-align: center;
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .con_head h3 {
+        margin-left: 0;
+    }
+
+    /* =============== contact area end ============ */
+
+    /* =============== footer area start ============ */
+    #footer {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .foot1 p {
+        font-size: 14px;
+        line-height: 23px;
+        padding-right: 0;
+    }
+
+    .foot1,
+    .foot2 {
+        margin-bottom: 30px;
+    }
+
+    .foot2,
+    .foot3 {
+        margin-left: 0px;
+    }
+
+    .foot_1 p {
+        margin-right: 0;
+    }
+
+    .foot_1 a {
+        margin-right: 30px;
+    }
+
+    .foot_icon a {
+        font-size: 13px;
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+        margin-right: 2px;
+    }
+
+    /* =============== footer area end ============ */
+}
+
+@media (min-width: 576px) and (max-width: 767px) {
+
+    /* =============== navbar area start ============ */
+    .navbar {
+        position: static;
+        background: #09013b;
+        padding-bottom: 0;
+        padding-top: 0;
+    }
+
+    .navbar-brand {
+        padding-top: 0;
+        padding-bottom: 0;
+        -webkit-transform: scale(.7);
+        -ms-transform: scale(.7);
+        transform: scale(.7);
+    }
+
+    /* =============== navbar area end ============ */
+
+    /* =============== banner area start ============ */
+    .banner_text p {
+        font-size: 14px;
+        line-height: 20px;
+        padding: 0 0;
+        margin-bottom: 15px;
+    }
+
+    .d-sm-block {
+        display: inline !important;
+    }
+
+    .banner_text h1 {
+        font-size: 24px;
+        margin-bottom: 15px;
+    }
+
+    .banner_text h1::after {
+        display: none;
+    }
+
+    .banner_text a {
+        font-size: 15px;
+        padding: 6px 15px;
+    }
+
+    #banner .slick-dots {
+        left: 48%;
+        bottom: 0;
+    }
+
+    /* =============== banner area end ============ */
+
+    /* =============== story area start ============ */
+    #story {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .story_img {
+        margin-bottom: 60px;
+    }
+
+    .story_text p {
+        font-size: 14px;
+        padding-right: 50px;
+        padding-left: 50px;
+    }
+
+    /* =============== story area end ============ */
+
+    /* =============== video area start ============ */
+    .video_text img {
+        -webkit-transform: scale(.6);
+        -ms-transform: scale(.6);
+        transform: scale(.6);
+    }
+
+    .video_text p {
+        margin-top: 0;
+    }
+
+    /* =============== video area end ============ */
+
+    /* =============== expertise area start ============ */
+    #expertise {
+        padding-top: 50px;
+        padding-bottom: 0px;
+    }
+
+    .ex_text:nth-child(1),
+    .ex_text:nth-child(2),
+    .ex_text:nth-child(3) {
+        margin-bottom: 50px;
+    }
+
+    .header p {
+        margin-bottom: 50px;
+        line-height: 20px;
+    }
+
+    .ex_row {
+        margin-top: 10px;
+    }
+
+    .ex_text p {
+        padding: 0 30px;
+    }
+
+    .bt_top {
+        display: none !important;
+    }
+
+    /* =============== expertise area end ============ */
+
+    /* =============== team area start ============ */
+    #team {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .team_button {
+        margin-top: 50px;
+    }
+
+    .team_head p {
+        line-height: 20px;
+    }
+
+    /* =============== team area end ============ */
+
+    /* =============== work area start ============ */
+    .work_button {
+        margin-top: 0;
+    }
+
+    #work {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .work_button button {
+        margin-bottom: 20px;
+    }
+
+    .work_row {
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+
+    .work_img {
+        margin-bottom: 24px;
+        margin-right: 12px;
+        margin-left: 12px;
+    }
+
+    .test_text p {
+        font-size: 14px;
+        line-height: 18px;
+        margin-top: 8px;
+        margin-bottom: 5px;
+    }
+
+    .test_text .span {
+        margin-top: 0px;
+    }
+
+    .d-sm-block {
+        display: inline !important;
+    }
+
+    .test_text {
+        margin-top: 5px;
+    }
+
+    .test_text span {
+        font-size: 13px;
+    }
+
+    .test_text img {
+        -webkit-transform: scale(.8);
+        -ms-transform: scale(.8);
+        transform: scale(.8);
+    }
+
+    #testimonial .slick-dots .slick-active button {
+        display: none;
+    }
+
+    #testimonial .slick-dots li button {
+        display: none;
+    }
+
+    /* =============== work area end ============ */
+
+    /* =============== contact area start ============ */
+    #contact form textarea {
+        height: 100px;
+    }
+
+    #contact form {
+        margin-bottom: 40px;
+    }
+
+    #contact {
+        text-align: center;
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .con_head h3 {
+        margin-left: 0;
+    }
+
+    /* =============== contact area end ============ */
+
+    /* =============== footer area start ============ */
+    #footer {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .foot1,
+    .foot2 {
+        margin-bottom: 30px;
+    }
+
+    .foot2,
+    .foot3 {
+        margin-left: 0px;
+    }
+
+    .foot_1 {
+        margin-top: 70px;
+        text-align: left !important;
+    }
+
+    /* =============== footer area end ============ */
+}
+
+@media (max-width: 575.99px) {
+
+    /* =============== navbar area start ============ */
+    .navbar {
+        position: static;
+        background: #09013b;
+        padding-bottom: 0;
+        padding-top: 0;
+    }
+
+    .navbar-brand {
+        padding-top: 0;
+        padding-bottom: 0;
+        -webkit-transform: scale(.7);
+        -ms-transform: scale(.7);
+        transform: scale(.7);
+    }
+
+    /* =============== navbar area end ============ */
+
+    /* =============== banner area start ============ */
+    .banner_text p {
+        font-size: 14px;
+        line-height: 18px;
+        padding: 0 0;
+        margin-bottom: 10px;
+    }
+
+    .banner_text h1 {
+        font-size: 18px;
+        margin-bottom: 10px;
+    }
+
+    .banner_text h1::after {
+        display: none;
+    }
+
+    .banner_text a {
+        font-size: 15px;
+        padding: 6px 15px;
+    }
+
+    #banner .slick-dots .slick-active button {
+        display: none;
+    }
+
+    #banner .slick-dots li button {
+        display: none;
+    }
+
+    /* =============== banner area end ============ */
+
+    /* =============== story area start ============ */
+    #story {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .story_img {
+        margin-bottom: 60px;
+    }
+
+    .story_text p {
+        font-size: 14px;
+        padding-right: 0;
+    }
+
+    /* =============== story area end ============ */
+
+    /* =============== video area start ============ */
+    .video_text img {
+        -webkit-transform: scale(.6);
+        -ms-transform: scale(.6);
+        transform: scale(.6);
+    }
+
+    .video_text p {
+        margin-top: -8px;
+    }
+
+    /* =============== video area end ============ */
+
+    /* =============== expertise area start ============ */
+    #expertise {
+        padding-top: 50px;
+        padding-bottom: 0px;
+    }
+
+    .ex_text:nth-child(1),
+    .ex_text:nth-child(2),
+    .ex_text:nth-child(3) {
+        margin-bottom: 50px;
+    }
+
+    .header p {
+        margin-bottom: 50px;
+        line-height: 20px;
+    }
+
+    .ex_text p {
+        padding: 0 30px;
+    }
+
+    .bt_top {
+        display: none !important;
+    }
+
+    /* =============== expertise area end ============ */
+
+    /* =============== team area start ============ */
+    #team {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .team_button {
+        margin-top: 50px;
+    }
+
+    .team_head p {
+        line-height: 20px;
+    }
+
+    /* =============== team area end ============ */
+
+    /* =============== work area start ============ */
+    .work_button {
+        margin-top: 0;
+    }
+
+    #work {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .work_button button {
+        margin-bottom: 20px;
+    }
+
+    .work_row {
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+
+    .work_img {
+        margin-bottom: 24px;
+    }
+
+    .test_text p {
+        font-size: 13px;
+        line-height: 16px;
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+
+    .test_text img {
+        display: none;
+    }
+
+    .test_text .span {
+        margin-top: -4px;
+    }
+
+    .test_text span {
+        font-size: 13px;
+    }
+
+    #testimonial .slick-dots .slick-active button {
+        display: none;
+    }
+
+    #testimonial .slick-dots li button {
+        display: none;
+    }
+
+    /* =============== work area end ============ */
+
+    /* =============== contact area start ============ */
+    #contact form textarea {
+        height: 100px;
+    }
+
+    #contact form {
+        margin-bottom: 40px;
+    }
+
+    #contact {
+        text-align: center;
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .con_head h3 {
+        margin-left: 0;
+    }
+
+    /* =============== contact area end ============ */
+
+    /* =============== footer area start ============ */
+    #footer {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .foot1,
+    .foot2 {
+        margin-bottom: 30px;
+    }
+
+    .foot2,
+    .foot3 {
+        margin-left: 0px;
+    }
+
+    .foot_1 {
+        margin-top: 40px;
+        text-align: left !important;
+    }
+
+    .foot_1 p {
+        margin-top: -15px;
+    }
+
+    .foot_1 a {
+        margin-right: 16px;
+    }
+
+    /* =============== footer area end ============ */
+}
+
+@media (min-width: 526px) and (max-width: 575.99px) {
+    .ex_text p {
+        padding: 0 135px !important;
+    }
+}
+
+@media (min-width: 400px) and (max-width: 575.99px) {
+    .ex_text p {
+        padding: 0 56px;
+    }
+
+    .test_text p {
+        font-size: 13px;
+        margin-bottom: 10px;
+        margin-top: -15px;
+        line-height: 22px;
+    }
+
+    .test_text .span {
+        margin-top: 0px;
+    }
+}
